@@ -1,0 +1,48 @@
+_repo: Bang-vir-die-lewe_72345
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Celliers, Jan F. E. (Jan François Elias)
+    aliases:
+    - Celliers, Jan Francois Elias
+    - Celliers, Johannes François Elias
+    - Celliers, Jan François Elias
+    birthdate: 1865
+    deathdate: 1940
+    gutenberg_agent_id: '41620'
+    url: http://www.gutenberg.org/2009/agents/41620
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jan_F._E._Celliers
+    - https://af.wikipedia.org/wiki/Jan_F.E._Celliers
+creator:
+  author:
+    agent_name: Bordeaux, Henry
+    aliases:
+    - Bordeaux, Henri
+    - Bordeaux, Enrique
+    birthdate: 1870
+    deathdate: 1963
+    gutenberg_agent_id: '4478'
+    url: http://www.gutenberg.org/2009/agents/4478
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Henry_Bordeaux
+    - https://en.wikipedia.org/wiki/Henry_Bordeaux
+description: ''
+gutenberg_issued: '2023-12-06'
+identifiers:
+  gutenberg: '72345'
+language: af
+pgterms:marc904: https://archive.org/details/hbordeauxbang
+pgterms:marc905: 20210517105832bordeaux
+pgterms:marc906: '1925'
+pgterms:marc907: za
+production_note: Kobus Meyer, Emmanuel Ackerman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aCape Town :$bNasionale Pers Bpk, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Bang vir die lewe
+url: http://www.gutenberg.org/ebooks/72345
