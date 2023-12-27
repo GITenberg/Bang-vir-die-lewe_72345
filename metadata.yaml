@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Jan_F._E._Celliers
     - https://af.wikipedia.org/wiki/Jan_F.E._Celliers
+covers:
+- cover_type: archival
+  image_path: 72345-h/images/cover.jpg
 creator:
   author:
     agent_name: Bordeaux, Henry
@@ -28,6 +31,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Henry_Bordeaux
     - https://en.wikipedia.org/wiki/Henry_Bordeaux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72345#Bang-vir-die-lewe
 gutenberg_issued: '2023-12-06'
 identifiers:
   gutenberg: '72345'
